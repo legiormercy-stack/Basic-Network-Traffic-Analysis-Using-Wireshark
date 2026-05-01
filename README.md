@@ -25,7 +25,7 @@ This screenshot shows filtered DNS traffic within Wireshark. The analysis highli
 
 This demonstrates the ability to filter, interpret, and analyze real network traffic at both high and low levels.
 
-##Key Findings 
+## Key Findings 
 - Multiple DNS queries were observed for external services like Google APIs and ASUS update servers.
 - Traffic followed standard DNS communication over UDP port 53.
 - No immediate malicious traffic detected, indicating normal system activity.
