@@ -1,31 +1,25 @@
 # Basic-Network-Traffic-Analysis-Using-Wireshark
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+To analyze network traffic using packet capture techniques in order to identify and understand DNS queries, responses, and general network communication patterns.
+By filtering DNS traffic, I was able to observe query requests and responses between a client and DNS server, as well as inspect packet-level details across multiple protocol layers.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Network traffic analysis and packet inspection.
+- Packet filtering using Wireshark display filters.
+- Identifying source and destination IP addresses.
+- Analyzing DNS queries and responses.
+- Reading raw packet data.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Wireshark for packet capture and analysis.
+- Network interface (Wi-Fi) for capturing live traffic.
+- Windows OS analysis environment.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
+
 Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
 
-*Ref 1: Network Diagram*
