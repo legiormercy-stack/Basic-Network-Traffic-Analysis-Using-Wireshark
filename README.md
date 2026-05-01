@@ -17,9 +17,12 @@ By filtering DNS traffic, I was able to observe query requests and responses bet
 - Windows OS analysis environment.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+<img width="1366" height="768" alt="Screenshot (557)" src="https://github.com/user-attachments/assets/b9cf6133-b034-47d4-86fa-4ecb545b4750" />
+DNS Traffic Analysis in Wireshark
+This screenshot shows filtered DNS traffic within Wireshark. The analysis highlights DNS queries and responses between source IP 10.165.218.248 and destination IP 10.165.218.4
+This demonstrates the ability to filter, interpret, and analyze real network traffic at both high and low levels.
 
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-
+##Key Findings 
+- Multiple DNS queries were observed for external services like Google APIs and ASUS update servers.
+- Traffic followed standard DNS communication over UDP port 53.
+- No immediate malicious traffic detected, indicating normal system activity.
