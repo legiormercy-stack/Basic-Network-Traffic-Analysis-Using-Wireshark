@@ -18,8 +18,11 @@ By filtering DNS traffic, I was able to observe query requests and responses bet
 
 ## Steps
 <img width="1366" height="719" alt="Screenshot (557)" src="https://github.com/user-attachments/assets/94ab44e7-cedf-48cf-8d90-5410f7a1cb2e" />
+
 DNS Traffic Analysis in Wireshark
+
 This screenshot shows filtered DNS traffic within Wireshark. The analysis highlights DNS queries and responses between source IP 10.165.218.248 and destination IP 10.165.218.4
+
 This demonstrates the ability to filter, interpret, and analyze real network traffic at both high and low levels.
 
 ##Key Findings 
